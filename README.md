@@ -1,4 +1,4 @@
-## Welcome to my GitHub!
+## ⭐ Welcome to my GitHub!
 
 My name is **Iker Karkokli**, and I'm a passionate **self-taught programmer** 💻 with a deep interest in **Videogames** 🎮 and **Web Development** 🌐.
 
