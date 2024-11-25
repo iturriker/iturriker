@@ -1,6 +1,6 @@
 ## ⭐ Welcome to my GitHub!
 
-My name is **Iker Karkokli**, and I'm a passionate **self-taught programmer** 💻 with a deep interest in **Videogames** 🎮 and **Web Development** 🌐.
+Hi there! 👋 My name is **Iker Karkokli**, and I'm a passionate **self-taught programmer** 💻 with a deep interest in **Videogames** 🎮 and **Web Development** 🌐.
 
 - ❤️ I love creating and building projects, especially when it comes to **Videogames** and **Web applications**.  
 - 👀 I’m currently focused on enhancing my skills in **Web Development** (both frontend and backend) and diving deeper into **Unity**.  
