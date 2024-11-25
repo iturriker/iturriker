@@ -2,7 +2,7 @@
 
 My name is **Iker Karkokli**, and I'm a passionate **self-taught programmer** 💻 with a deep interest in **Videogames** 🎮 and **Web Development**.
 
-- 👋 I love creating and building projects, especially when it comes to **Videogames** and **Web applications**.  
+- ❤️ I love creating and building projects, especially when it comes to **Videogames** and **Web applications**.  
 - 👀 I’m currently focused on enhancing my skills in **Web Development** (both frontend and backend) and diving deeper into **Unreal Engine**.  
 - 🌱 At the moment, I'm working on a **Unity videogame** alongside developing my **personal portfolio** to showcase my work and progress.  
 
