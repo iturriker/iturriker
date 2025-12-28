@@ -1,9 +1,16 @@
-## ⭐ Welcome to my GitHub!
+# Welcome to my GitHub!
+Hi there! 👋 I'm Iker Karkokli, a passionate Software Developer focused on building meaningful digital experiences.
 
-Hi there! 👋 My name is **Iker Karkokli**, and I'm a passionate **self-taught programmer** 💻 with a deep interest in **Videogames** 🎮 and **Web Development** 🌐.
+## About Me
+- 🎮 I’m especially interested in videogame development and interactive experiences, mainly with Unity.
+- 🌐 I also enjoy creating web applications, working with modern tooling, automation, and clean architectures.
+- 📌 Currently improving my portfolio, shaping my career path toward game development and creative tech.
 
-- ❤️ I love creating and building projects, especially when it comes to **Videogames** and **Web applications**.  
-- 👀 I’m currently focused on enhancing my skills in **Web Development** (both frontend and backend) and diving deeper into **Unity**.  
-- 🌱 At the moment, I'm working on a **Unity videogame** alongside developing my **personal portfolio** to showcase my work and progress.  
+## What I'm Working On
+- 🛠 Strengthening my skills in Unity, C#, and WebGL
+- 🌱 Learning more about SSR, NGINX, and cloud infrastructure
+- 🎯 Building personal projects to grow my portfolio and showcase real-world experience
 
-Feel free to explore my repositories and check out my projects. Don't hesitate to reach out if you have any questions ⁉️ or if you'd like to collaborate 🤝 on something exciting!
+## Let’s Connect
+I’m always open to collaboration!
+Whether it’s a dev project, a game prototype, or just sharing ideas—feel free to reach out.
