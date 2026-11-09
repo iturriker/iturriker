@@ -36,8 +36,6 @@ Desarrollador **Full Stack** especializado en aplicaciones empresariales, automa
 
 **Datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 **DevOps & Infra**
@@ -46,7 +44,6 @@ Desarrollador **Full Stack** especializado en aplicaciones empresariales, automa
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -66,7 +63,7 @@ Desarrollador **Full Stack** especializado en aplicaciones empresariales, automa
 ### 📫 Dónde encontrarme
 
 [![Web](https://img.shields.io/badge/Web-iturriker.com-16A44A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iturriker.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.iturriker.com-0B6B30?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.iturriker.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iturriker.com/portfolio-0B6B30?style=for-the-badge&logo=firefox&logoColor=white)](https://iturriker.com/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iker_Karkokli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iker-karkokli-iturrioz)
 [![Email](https://img.shields.io/badge/Email-iturriker@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iturriker@gmail.com)
 
